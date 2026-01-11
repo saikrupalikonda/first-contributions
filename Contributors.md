@@ -148,6 +148,7 @@
 - [Ben Huotari](https://github.com/benhuotari)
 - [Berekia Obed](https://github.com/berekiao)
 - [Bharat Maheshwari](https://github.com/BM840)
+- [Sai Krupali Konda](https://github.com/saikrupalikonda)
 - [Bhavesh Desale](https://github.com/bhaveshdesale)
 - [Bhupesh](https://github.com/Bhupi1306)
 - [Bill Lin](https://github.com/SeafoodproMax)
